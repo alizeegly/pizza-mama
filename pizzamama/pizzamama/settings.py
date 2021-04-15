@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-5cp6o$lhir2nzuo*^1lyj!sok1_$e_d&hv6e6$=$a3l31k)v$!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['alizee-pizzamamadjango.herokuapp.com']
+ALLOWED_HOSTS = ['alizee-pizza-mama.herokuapp.com']
 
 
 # Application definition
